@@ -16,15 +16,19 @@ Here are some ideas to get you started:
 
 # Hi, I’m Buyan 👋
 
-I’m a student at SJSU passionate about unravelling patterns and creating intelligent solutions.
+Undergraduate student at SJSU. 📍SF, Bay Area
 
 ## 🚀 Skills
 - Deep Learning
 - Full Stack Development
 - Model Fine-Tuning
 - Agent Workflow
-- MCP (Multi-Cloud Platforms)
-- RAG (Retrieval-Augmented Generation)
+- MCP
+- RAG
+- Stateful Learning, Memory
+- Distributed systems
+- Learning quantitative trading
+
 
 ---
 
