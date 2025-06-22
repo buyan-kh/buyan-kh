@@ -21,13 +21,10 @@ Undergraduate student at SJSU. 📍SF, Bay Area
 ## 🚀 Skills
 - Deep Learning
 - Full Stack Development
-- Model Fine-Tuning
 - Agent Workflow
 - MCP
-- RAG
 - Stateful Learning, Memory
-- Distributed systems
-- Learning quantitative trading
+- Learning algorithmic trading
 
 
 ---
