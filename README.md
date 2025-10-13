@@ -16,19 +16,6 @@ Here are some ideas to get you started:
 
 # Hi, I’m Buyan 👋
 
-Currently building Cowabunga 🌊
-
-Undergraduate student at SJSU. 📍SF, Bay Area
-
-## 🚀 Skills
-- Deep Learning
-- Full Stack Development
-- Agent Workflow
-- MCP
-- Stateful Learning, Memory
-- Learning algorithmic trading
-
-
 ---
 
 > “Unravel patterns and create intelligent solutions.”
