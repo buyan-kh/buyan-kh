@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ---
 
+Currently building Cognitive database, mind mapping engine (looking for funding!) https://www.prepst.com
+
 > “Unravel patterns and create intelligent solutions.”
 
 Let’s connect and collaborate!
