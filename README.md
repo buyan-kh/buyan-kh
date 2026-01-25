@@ -23,3 +23,5 @@ Currently building Cognitive database, mind mapping engine
 > “Unravel patterns and create intelligent solutions.”
 
 Let’s connect and collaborate!
+
+email: buyan.khurel@gmail.com
