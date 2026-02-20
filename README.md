@@ -21,6 +21,7 @@
 - 🐾 **[Notcher](https://github.com/buyan-kh/notcher)** - tiny assistant living in notch
 - 📚 **[Prepst](https://prepst.com)** - Free personalized tutor for SAT prep with datbase of 8000 practice questions.
 - 🌌 **[Simulation Theory](https://github.com/buyan-kh/simulationtheory)** - Simulate everything..
+- 🎯 **[learngametheory](https://github.com/buyan-kh/learngametheory)** - Game theory simulation on everyday events.
 - 💸 **[Pipify](https://github.com/buyan-kh/pipify)** - Lightning-fast copy trading from natural instructions engine.
 - 🎨 **[designi](https://github.com/buyan-kh/designi)** - MCP server that stores and serves your design preferences to AI agents.
 - 🤠 **[GraphOTN](https://github.com/buyan-kh/graphOTN)** - MCP server for breaking complex into micro prompts.
