@@ -17,10 +17,10 @@
 🧙🏻 **[buyan.tech](https://buyan.tech/)** (digital me) – Chat with my digital twin, learn more about me!
 
 ## Current Projects
-
-- 🐾 **[Notcher](https://github.com/buyan-kh/notcher)** - tiny assistant living in notch
+- 𑗊 **[The Similarity](https://the-similarity-landing.vercel.app/)** - A research grade pattern matching engine for any time series dataset. (Actively raising, if interested please contact!)
+- 🌌 **[Simulation Theory](https://github.com/buyan-kh/simulationtheory)** - Simulation of a living world where agents form empires, economies, and cultures on their own.
 - 📚 **[Prepst](https://prepst.com)** - Free personalized tutor for SAT prep with datbase of 8000 practice questions.
-- 🌌 **[Simulation Theory](https://github.com/buyan-kh/simulationtheory)** - Simulate everything..
+- 🐾 **[Notcher](https://github.com/buyan-kh/notcher)** - tiny assistant living in notch
 - 🎯 **[learngametheory](https://github.com/buyan-kh/learngametheory)** - Game theory simulation on everyday events.
 - 💸 **[Pipify](https://github.com/buyan-kh/pipify)** - Lightning-fast copy trading from natural instructions engine.
 - 🎨 **[designi](https://github.com/buyan-kh/designi)** - MCP server that stores and serves your design preferences to AI agents.
