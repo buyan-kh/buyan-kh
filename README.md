@@ -18,6 +18,7 @@
 
 ## Current Projects
 - 𑗊 **[The Similarity](https://www.thesimilarity.tech/)** - A research grade pattern matching engine for any time series dataset. (Actively raising, if interested please contact!)
+- 🪵 **[Agentfleet](https://www.npmjs.com/package/@buyan14/agentfleet)** - Run multiple coding agents in isolated git worktrees from one CLI.
 - 🌌 **[Simulation Theory](https://github.com/buyan-kh/simulationtheory)** - Simulation of a living world where agents form empires, economies, and cultures on their own.
 - 📚 **[Prepst](https://prepst.com)** - Free personalized tutor for SAT prep with datbase of 8000 practice questions.
 - 🐾 **[Notcher](https://github.com/buyan-kh/notcher)** - tiny assistant living in notch
