@@ -14,7 +14,6 @@
 
 > Unravel patterns and create intelligent solutions.
 
-🧙🏻 **[buyan.tech](https://buyan.tech/)** (digital me) – Chat with my digital twin, learn more about me!
 
 ## Current Projects
 - 𑗊 **[The Similarity](https://www.thesimilarity.tech/)** - A research grade pattern matching engine for any time series dataset. (Actively raising, if interested please contact!)
