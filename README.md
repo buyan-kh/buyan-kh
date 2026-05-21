@@ -31,10 +31,6 @@
 - 🧘🏻 **[Clarity](https://clarity.buyan.tech)** - What would make today meaningful for you?
 - 🎙️ **[Clueless](https://github.com/buyan-kh/clueless)** - Keeping digital integrity and honesty.
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/buyan-kh)
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@buyan_kh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/buyan_kh)
